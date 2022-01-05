@@ -30,5 +30,5 @@ jobs:
 
       - name: twint -u
         run: |
-            twint -u MahuiChina
+            twint -u bumaociyuan --retweets
 
